@@ -1,0 +1,9 @@
+.pub/*
+.dart_tool/*
+packages/*
+build/*
+web/packages/*
+.packages
+pubspec.lock
+.DS_Store
+.idea/*
